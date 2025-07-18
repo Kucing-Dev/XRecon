@@ -19,3 +19,5 @@ python3 XRecon.py -d example.com --ip --whois --headers
 - ` github.com `
 - ` bbc.com `
 - ` yahoo.com `
+
+## Masih dalam tahap pengembangan
